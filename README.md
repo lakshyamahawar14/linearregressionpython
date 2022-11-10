@@ -1,2 +1,2 @@
-# Linear Regression using Python
-Linear Regression Gradient Descent and Least Squares Methods using python from scratch (jupyter notebook)
+# Linear Regression using Python </br>
+Linear Regression Gradient Descent and Least Squares Methods using python from scratch
